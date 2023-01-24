@@ -1,2 +1,2 @@
-29678
-78630
+this is my first class
+the class is good
